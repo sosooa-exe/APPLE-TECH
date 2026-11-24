@@ -171,7 +171,7 @@ footer a{color:white}
 
 <script>
 // НАСТРОЙКИ МАГАЗИНА
-const TELEGRAM="your_store"; // Укажи свой Telegram без @
+const TELEGRAM="snoop_dogg000"; // Укажи свой Telegram без @
 
 // ТОВАРЫ И ЦЕНЫ
 const products=[
